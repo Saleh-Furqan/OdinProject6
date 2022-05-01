@@ -1,2 +1,2 @@
-# OdinProject6
-sign up form
+# Sign Up Form
+OdinProject6
